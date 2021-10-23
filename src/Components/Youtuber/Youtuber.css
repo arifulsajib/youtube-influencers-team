@@ -1,0 +1,30 @@
+.youtuber {
+    background-color: #3c7770;
+    border-radius: 10px;
+    box-shadow: 6px 10px 8px #65928d;
+    font-weight: 500;
+}
+
+.pic-div {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.info-div {
+    padding: 10px;
+}
+
+.name {
+    text-align: center;
+}
+
+.btn-add {
+    font-size: 17px;
+    background-color: rgb(34 24 74);
+    color: #d4d0d0;
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
